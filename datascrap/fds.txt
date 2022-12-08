@@ -1,0 +1,83 @@
+<div class="product-info-price"><div class="price-box price-final_price" data-role="priceBox" data-product-id="8028" data-price-box="product-id-8028">    <span class="old-price">
+        
+<span class="price-container price-final_price tax weee">
+            <span class="price-label">Regular Price</span>
+        <span id="old-price-8028" data-price-amount="850" data-price-type="oldPrice" class="price-wrapper "><span class="price">€ 850</span></span>
+        </span>
+    </span>
+    <span class="discount-price">
+        <span class="price-label">
+            Discount        </span>
+        <span class="price-wrapper">
+            <span class="price">
+                –10%
+            </span>
+        </span>
+    </span>
+    <span class="special-price">
+        
+<span class="price-container price-final_price tax weee" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+            <span class="price-label">Special Price</span>
+        <span id="product-price-8028" data-price-amount="765" data-price-type="finalPrice" class="price-wrapper "><span class="price">€ 765</span></span>
+                <meta itemprop="price" content="765">
+        <meta itemprop="priceCurrency" content="EUR">
+                    <link itemprop="availability" href="https://schema.org/InStock">
+            </span>
+
+            </span>
+</div>
+<div id="lampoo_klarna_payinthree" data-bind="scope:'lampoo_klarna_payinthree'">
+    <!-- ko template: getTemplate() --><div class="lampoo-klarna-payinthree" data-bind="visible: isVisible()" style="display: none;">
+    <span class="lkpit-content" data-bind="html: content">Make 3 payments of <span class="price">€ 255</span>. No fees.</span>
+    <img class="lkpit-logo" data-bind="attr: { src: require.toUrl('Lampoo_Klarna/images/klarna-logotype-bn.svg') }" alt="Klarna Logo" src="https://www.lampoo.com/static/version1668160640/frontend/Ped/lampoo/en_GB/Lampoo_Klarna/images/klarna-logotype-bn.svg">
+    <a class="lkpit-more" data-bind="i18n: 'Learn more', click: onLearnMore" href="#">Learn more</a>
+</div>
+<!-- /ko -->
+    
+</div>
+</div>
+
+
+<div class="additional-attributes attributes-color">
+        <h4 class="additional-attributes-title">Color</h4>
+        <ul class="additional-attributes-content">
+                        <li>
+                <span class="color-attribute" style="background-color: #053a70;" title="Navy"></span>
+                <span class="text">Navy</span>
+            </li>
+                    </ul>
+    </div>
+
+    additional-attributes attributes-composition
+<div class="additional-attributes attributes-composition">
+        <h4 class="additional-attributes-title">Composition</h4>
+                    <dl class="additional-attributes-content">
+                                    <div class="additional-attributes-group">
+                        <dt>
+                            Composition                        </dt>
+                        <dd>
+                            <ul class="attributes-composition-list">
+                                                            <li class="attributes-composition-item">
+                                    Outer: Calf Leather 100%                                </li>
+                                                        </ul>
+                        </dd>
+                    </div>
+                            </dl>
+            </div>
+
+
+<div class="additional-attributes attributes-composition">
+        <h4 class="additional-attributes-title">Composition</h4>
+                    <dl class="additional-attributes-content">
+                                    <div class="additional-attributes-group">
+                        <dt>
+                            Composition                        </dt>
+                        <dd>
+                            <ul class="attributes-composition-list">
+                                                            <li class="attributes-composition-item">
+                                    100% calf leather                                </li>
+                                                        </ul>
+                        </dd>
+                    </div>
+                            </dl>
+            </div>
